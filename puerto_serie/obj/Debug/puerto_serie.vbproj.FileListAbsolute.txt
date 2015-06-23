@@ -1,0 +1,11 @@
+C:\Users\Elkin\AppData\Local\Temporary Projects\puerto_serie\bin\Debug\puerto_serie.exe.config
+C:\Users\Elkin\Documents\Visual Studio 2013\Projects\puerto_serie\puerto_serie\bin\Debug\puerto_serie.exe.config
+C:\Users\Elkin\Documents\Visual Studio 2013\Projects\puerto_serie\puerto_serie\bin\Debug\puerto_serie.exe
+C:\Users\Elkin\Documents\Visual Studio 2013\Projects\puerto_serie\puerto_serie\bin\Debug\puerto_serie.pdb
+C:\Users\Elkin\Documents\Visual Studio 2013\Projects\puerto_serie\puerto_serie\bin\Debug\puerto_serie.xml
+C:\Users\Elkin\Documents\Visual Studio 2013\Projects\puerto_serie\puerto_serie\obj\Debug\puerto_serie.Form1.resources
+C:\Users\Elkin\Documents\Visual Studio 2013\Projects\puerto_serie\puerto_serie\obj\Debug\puerto_serie.Resources.resources
+C:\Users\Elkin\Documents\Visual Studio 2013\Projects\puerto_serie\puerto_serie\obj\Debug\puerto_serie.vbproj.GenerateResource.Cache
+C:\Users\Elkin\Documents\Visual Studio 2013\Projects\puerto_serie\puerto_serie\obj\Debug\puerto_serie.exe
+C:\Users\Elkin\Documents\Visual Studio 2013\Projects\puerto_serie\puerto_serie\obj\Debug\puerto_serie.xml
+C:\Users\Elkin\Documents\Visual Studio 2013\Projects\puerto_serie\puerto_serie\obj\Debug\puerto_serie.pdb
